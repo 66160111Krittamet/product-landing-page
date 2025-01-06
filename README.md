@@ -19,5 +19,5 @@
 - git add .
 - git commit -m "เพิ่มส่วนท้ายแบบ Responsive"
 - git add .
-- git commit -m "เพิ่ม docx และคำสั่ง git ทั้งหมด"
+- git commit -m "เพิ่ม README และเพิ่มไฟล์ comparison.docx"
 - git push
